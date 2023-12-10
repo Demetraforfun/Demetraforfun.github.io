@@ -1,12 +1,29 @@
 .wmn{
-	max-width: 50%;
+	max-width: 80%;
+	text-align: center;
 }
 .jkr{
-	max-width: 60%;
+	max-width: 90%;
 }
 .drgn{
-	max-width: 40%;
+	max-width: 90%;
 }
 .venom-spd{
-	max-width: 40;
+	max-width: 100;
+}
+.demetra{
+	text-align: center;
+}
+body {
+	background-color: #FFCDAF;
+}
+.eikona{
+	width: 350px;
+}
+.dem{
+	text-align: center;
+	background-color: #F592A0;
+}
+p{
+	font-size: 25px;
 }
